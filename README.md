@@ -1,4 +1,4 @@
-# nest-blog
+# 基于Nest.js和Prisma的nest-blog博客
 
 ## 1.初始化nest项目
 
